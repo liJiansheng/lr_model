@@ -8,7 +8,6 @@ blis==0.4.1
 Bottleneck==1.2.1
 branca==0.3.1
 cachetools==4.0.0
-catalogue==1.0.0
 certifi==2019.9.11
 cffi==1.12.3
 chardet==3.0.4
@@ -40,7 +39,6 @@ grpcio==1.27.2
 h5py==2.9.0
 HeapDict==1.0.1
 html5lib==1.0.1
-idna==2.8
 imbalanced-learn==0.6.1
 imblearn==0.0
 importlib-metadata==0.23
@@ -49,9 +47,6 @@ ipython==7.8.0
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 isort==4.3.21
-itsdangerous==1.1.0
-jdcal==1.4.1
-jedi==0.15.1
 Jinja2==2.10.3
 jmespath==0.9.4
 joblib==0.13.2
@@ -60,7 +55,6 @@ jsonschema==3.0.2
 keyring==18.0.0
 kiwisolver==1.1.0
 lazy-object-proxy==1.4.2
-libarchive-c==2.8
 lief==0.9.0
 llvmlite==0.29.0
 locket==0.2.0
@@ -70,7 +64,6 @@ MarkupSafe==1.1.1
 matplotlib==3.1.2
 mccabe==0.6.1
 mock==3.0.5
-more-itertools==7.2.0
 mpmath==1.1.0
 msgpack==0.6.1
 multipledispatch==0.6.0
