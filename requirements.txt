@@ -1,10 +1,5 @@
-astor==0.8.1
-astroid==2.3.1
-astropy==3.2.2
-atomicwrites==1.3.0
 attrs==19.2.0
 autopep8==1.4.4
-backcall==0.1.0
 beautifulsoup4==4.8.0
 bitarray==1.0.1
 bkcharts==0.2
@@ -134,11 +129,8 @@ pyflakes==2.1.1
 Pygments==2.3.1
 pyLDAvis==2.1.2
 pylint==2.4.2
-pyodbc==4.0.27
-pyOpenSSL==19.0.0
 pyparsing==2.4.2
 pyrsistent==0.15.4
-PySocks==1.7.1
 pytest==5.2.1
 pytest-arraydiff==0.3
 pytest-astropy==0.5.0
@@ -150,9 +142,6 @@ pytz==2019.3
 PyWavelets==1.0.3
 PyYAML==5.1.2
 pyzmq==18.1.0
-QtAwesome==0.6.0
-qtconsole==4.5.5
-QtPy==1.9.0
 regex==2020.1.8
 requests==2.22.0
 requests-oauthlib==1.3.0
